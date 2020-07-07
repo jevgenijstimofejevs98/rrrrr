@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/rrrrr/static/css/main.5f361e03.chunk.css",
-    "main.js": "/rrrrr/static/js/main.75947064.chunk.js",
-    "main.js.map": "/rrrrr/static/js/main.75947064.chunk.js.map",
+    "main.css": "/rrrrr/static/css/main.10ee81c3.chunk.css",
+    "main.js": "/rrrrr/static/js/main.e3e32290.chunk.js",
+    "main.js.map": "/rrrrr/static/js/main.e3e32290.chunk.js.map",
     "runtime-main.js": "/rrrrr/static/js/runtime-main.04185e97.js",
     "runtime-main.js.map": "/rrrrr/static/js/runtime-main.04185e97.js.map",
     "static/css/2.af3c1da9.chunk.css": "/rrrrr/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c07b1935.chunk.js": "/rrrrr/static/js/2.c07b1935.chunk.js",
-    "static/js/2.c07b1935.chunk.js.map": "/rrrrr/static/js/2.c07b1935.chunk.js.map",
+    "static/js/2.21f5fa21.chunk.js": "/rrrrr/static/js/2.21f5fa21.chunk.js",
+    "static/js/2.21f5fa21.chunk.js.map": "/rrrrr/static/js/2.21f5fa21.chunk.js.map",
     "index.html": "/rrrrr/index.html",
-    "precache-manifest.9c0fabd453d3cc0e1754ce3688713e7d.js": "/rrrrr/precache-manifest.9c0fabd453d3cc0e1754ce3688713e7d.js",
+    "precache-manifest.3fe1c42094ebf07252bc89eb6b0c5248.js": "/rrrrr/precache-manifest.3fe1c42094ebf07252bc89eb6b0c5248.js",
     "service-worker.js": "/rrrrr/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/rrrrr/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/rrrrr/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c07b1935.chunk.js.LICENSE.txt": "/rrrrr/static/js/2.c07b1935.chunk.js.LICENSE.txt",
-    "static/media/1.jpeg": "/rrrrr/static/media/1.d9f71dc3.jpeg",
-    "static/media/2.jpeg": "/rrrrr/static/media/2.f7052613.jpeg",
-    "static/media/3.jpeg": "/rrrrr/static/media/3.d088d4de.jpeg"
+    "static/css/main.10ee81c3.chunk.css.map": "/rrrrr/static/css/main.10ee81c3.chunk.css.map",
+    "static/js/2.21f5fa21.chunk.js.LICENSE.txt": "/rrrrr/static/js/2.21f5fa21.chunk.js.LICENSE.txt",
+    "static/media/1.jpeg": "/rrrrr/static/media/1.800d045e.jpeg",
+    "static/media/2.jpeg": "/rrrrr/static/media/2.de0bb6e1.jpeg",
+    "static/media/3.jpeg": "/rrrrr/static/media/3.6465d9e8.jpeg",
+    "static/media/akira.jpg": "/rrrrr/static/media/akira.dbe5eb6c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.04185e97.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c07b1935.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.75947064.chunk.js"
+    "static/js/2.21f5fa21.chunk.js",
+    "static/css/main.10ee81c3.chunk.css",
+    "static/js/main.e3e32290.chunk.js"
   ]
 }
